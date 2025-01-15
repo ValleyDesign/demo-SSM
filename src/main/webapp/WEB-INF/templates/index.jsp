@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-邢万里
+中文
 Hello world
 </body>
 </html>
